@@ -1,4 +1,4 @@
-#Leap Motion Soundboard
+# Leap Motion Soundboard
 by Greg Bulmash - @YiddishNinja at @SEACoderDojo
 
 This is a demo app I created for Seattle CoderDojo's table at Seattle Mini Maker Faire. It runs in the Chrome browser. You will need a Leap Motion device connected to your laptop, appropriate drivers installed, and the Leap Motion daemon running.
