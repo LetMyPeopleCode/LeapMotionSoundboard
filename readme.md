@@ -19,7 +19,7 @@ Licenses of different materials range between CC0 (Creative Commons Zero) to Apa
 Code is licensed under Apache 2.0. Leap Motion's Apache Licensed JS SDK is included here as is my own code to take advantage of it. No warranty is offered or implied. Use at your own risk.
 
 ## Image Licenses
-Source images are from openclipart.org and are licensed as CC0. I have modified them to be buttons and fit this design. Any of my image modifications that could be considered worthy of copyright are dedicated to the public domain and licensed under CC0 (Creative Commons Zero).
+Source images are from openclipart.org and were licensed to me as CC0. I have modified them to be buttons and fit this design. Any of my image modifications that could be considered worthy of copyright are dedicated to the public domain and licensed under CC0 (Creative Commons Zero).
 
 ## Sound Licenses:
 Burp licensed under Creative Commons Zero - I created it
