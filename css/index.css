@@ -1,0 +1,25 @@
+body {
+    margin:0px;
+    padding:0px;
+    height: 1080px;
+    width: 1920px;
+    overflow: hidden;
+}
+
+#displayArea{
+    height: 1080px;
+    width: 1920px;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+:root:before {
+  content: url(images/dog-button.png)
+           url(images/chicken-button.png)
+           url(images/cow-button.png);
+  visibility: hidden;
+  position: absolute;
+  left: -999em;
+           
+}
